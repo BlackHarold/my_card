@@ -1,4 +1,4 @@
-![Screenshot from my_card_app](https://github.com/BlackHarold/my_card/tree/master/images/Screenshot.png)
+![Screenshot from my_card_app](https://github.com/BlackHarold/my_card/blob/master/images/Screenshot.png)
 
 # My Card
 
