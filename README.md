@@ -1,6 +1,8 @@
-![Screenshot from my_card_app](https://github.com/BlackHarold/my_card/blob/master/images/Screenshot.png)
+
 
 # My Card
+
+![Screenshot from my_card_app](https://github.com/BlackHarold/my_card/blob/master/images/Screenshot.png)
 
 ## Our Goal
 
