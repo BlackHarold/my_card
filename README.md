@@ -1,6 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![Screenshot from my_card_app](https://github.com/BlackHarold/my_card/images/Screenshot.png)
 
-# Mi Card
+# My Card
 
 ## Our Goal
 
@@ -24,5 +24,3 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
